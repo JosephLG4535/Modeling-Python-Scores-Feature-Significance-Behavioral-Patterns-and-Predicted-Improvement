@@ -2,6 +2,8 @@
 This repository contain a project that involves data cleaning, EDA and predictive modelling. This project mainly revolve around studying the feature significance, studying behavioural patterns among bottom 10% peforming students against the rest, and predictive aspects for Linear Regression. 
 Dataset link:  https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning/data
 
+Kaggle link to see all processes in detail : https://www.kaggle.com/code/micro20/data-cleaning-eda-and-predictive-modelling
+
 There are 3 goals of this project.
 1. Identify the key features and their impact on Python score predictions
 2. Explore behavioural patterns among bottom 10% performing students.
