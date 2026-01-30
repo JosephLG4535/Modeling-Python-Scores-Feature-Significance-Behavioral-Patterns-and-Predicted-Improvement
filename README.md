@@ -1,4 +1,4 @@
-# Modeling-Python-Scores-Feature-Significance-Behavioral-Patterns-and-Predicted-Improvement
+# Modeling Python Scores: Feature Significance, Behavioral Patterns and Predicted Scores Improvement
 This repository contain a project that involves data cleaning, EDA and predictive modelling. This project mainly revolve around studying the feature significance, studying behavioural patterns among bottom 10% peforming students against the rest, and predictive aspects for Linear Regression. 
 Dataset link:  https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning/data
 
