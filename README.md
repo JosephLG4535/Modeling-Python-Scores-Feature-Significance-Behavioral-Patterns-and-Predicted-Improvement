@@ -1,0 +1,2 @@
+# Modeling-Python-Scores-Feature-Significance-Behavioral-Patterns-and-Predicted-Improvement
+This repository contain a project that involves data cleaning, EDA and predictive modelling. This project mainly revolve around studying the feature significance, studying targeted cluster and predictive aspect for Linear Regression. Dataset link:  https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning/data
